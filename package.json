@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "googleapis": "^144.0.0"
+  }
+}
