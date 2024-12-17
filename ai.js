@@ -109,7 +109,7 @@ const functions = {
   
 };
 
-const genAI = new GoogleGenerativeAI("AIzaSyCm3RVwy1ZMzydsnl1ML1HVNyyEF5nYsaw");
+const genAI = new GoogleGenerativeAI("Your API Key");
 const model = genAI.getGenerativeModel({
   model: "gemini-1.5-flash-001",
   systemInstruction:
